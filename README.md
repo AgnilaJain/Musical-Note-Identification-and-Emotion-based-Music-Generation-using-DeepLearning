@@ -1,0 +1,2 @@
+# Musical-Note-Identification-and-Emotion-based-Music-Generation-using-DeepLearning
+This repository contains the code for a project that analyzes uploaded audio (from an MP3 file or YouTube URL) to identify its musical composition. It then leverages two specially trained LSTM neural networks—one for "happy" music and one for "sad" music—to generate new, original piano pieces in a selected emotional style.
