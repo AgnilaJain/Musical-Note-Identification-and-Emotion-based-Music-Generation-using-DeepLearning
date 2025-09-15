@@ -109,7 +109,7 @@ If you wish to train the models from scratch:
 ---
 ## 🗂️ Repository Structure
 
-```text
+
 ├── Happy_Model.ipynb             # Notebook for training the "happy" emotion model.
 ├── Sad_Model.ipynb               # Notebook for training the "sad" emotion model.
 ├── Music Generation.ipynb        # The final application notebook that combines everything.
