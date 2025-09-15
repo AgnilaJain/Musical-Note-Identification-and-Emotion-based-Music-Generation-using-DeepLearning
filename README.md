@@ -107,7 +107,11 @@ If you wish to train the models from scratch:
 3.  After the generation is complete, the notebook will display a playable audio player and provide a download link for the sheet music.
 
 ---
-
+## 🗂️ Repository Structure
+├── Happy_Model.ipynb # Notebook for training the "happy" emotion model.
+├── Sad_Model.ipynb # Notebook for training the "sad" emotion model.
+├── Music Generation.ipynb # The final application notebook that combines everything.
+└── README.md # This file.
 
 ---
 
